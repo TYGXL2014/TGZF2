@@ -1,9 +1,9 @@
-ZendSkeletonApplication
+TGZF2
 =======================
 
 Introduction
 ------------
-This is a simple, skeleton application using the ZF2 MVC layer and module
+This is a simple, application prototype using the ZF2 MVC layer and module
 systems. This application is meant to be used as a starting place for those
 looking to get their feet wet with ZF2.
 
@@ -75,3 +75,15 @@ project and you should be ready to go! It should look something like below:
             Allow from all
         </Directory>
     </VirtualHost>
+
+目的
+----------------
+###这项目的主要是提供一个大致的框架，为所有的项目再次基础上再次进行具体的业务提供平台
+
+
+集成的框架
+----------------
+Zend Framework 2.3.3 (PHP)  PHP MVC开源框架
+
+
+
